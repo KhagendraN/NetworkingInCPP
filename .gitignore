@@ -43,6 +43,7 @@ x86/
 *.ncb
 *.opensdf
 *.sdf
+.vscode
 
 # Code::Blocks
 *.layout
